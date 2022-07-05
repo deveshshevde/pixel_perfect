@@ -354,3 +354,13 @@ h2 {
 #services {
   padding-bottom: 40px;
 }
+.navbar-btn a {
+  text-decoration: none;
+  color: white;
+}
+.navbar-btn a:hover {
+  background-color: rgb(247, 166, 166);
+  box-shadow: 0px 0px 0px;
+  transform: scale(1.03);
+  color: white;
+}
